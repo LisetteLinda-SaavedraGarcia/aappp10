@@ -2,10 +2,10 @@
 
 <widget xmlns ="http://www.w3.org/ns/widgets"
    xmlns:gap="http://phonegap.com/ns/1.0"
-   id ="com.phonegap.example10"
+   id ="com.phonegap.example6"
    version ="1.0.0">
    
-   <name> Guia turistica </name>
+   <name> app10 Atlixco </name>
    
    <description>
    Aplicacion de informacion y difucion del municipio de atlixco
